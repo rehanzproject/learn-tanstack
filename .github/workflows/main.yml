@@ -19,7 +19,7 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Build React app
-        run: bun run build --mode production
+        run: bun run build
         env:
           VITE_BASE_API_URL: ${{ secrets.VITE_BASE_API_URL }}
       # Deploy only if tests pass

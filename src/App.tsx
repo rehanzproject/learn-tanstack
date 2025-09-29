@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test
+          Learn React test editt
         </a>
         <a
           className="text-[#61dafb] hover:underline"
