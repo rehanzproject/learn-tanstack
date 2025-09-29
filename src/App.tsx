@@ -10,7 +10,7 @@ function App() {
           alt="logo"
         />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> and save to reload. Done!.
         </p>
         <a
           className="text-[#61dafb] hover:underline"
@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test editt
+          Learn React ci cd
         </a>
         <a
           className="text-[#61dafb] hover:underline"
